@@ -1,4 +1,4 @@
-# Score de Inadimplência — Sistema de Machine Learning End-to-End
+# Score de Inadimplência — Sistema de Machine Learning
 
 ## Visão Geral e Problema de Negócio
 
