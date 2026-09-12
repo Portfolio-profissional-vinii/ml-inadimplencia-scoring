@@ -2,7 +2,7 @@
 
 ## Visão Geral e Problema de Negócio
 
-Desenvolvimento de uma solução de **MLOps** para previsão do risco de inadimplência em concessão de crédito de varejo.
+Desenvolvimento de uma solução de Machine Learning com práticas de MLOps para previsão do risco de inadimplência em concessão de crédito de varejo.
 
 O objetivo é classificar solicitações de empréstimo e calcular a probabilidade de inadimplência antes da aprovação do contrato, permitindo que a instituição financeira reduza perdas operacionais sem comprometer a esteira de aprovação.
 
